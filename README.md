@@ -46,7 +46,3 @@ python manage.py migrate --sync-db
 python manage.py createsuperuser 
 python manage.py runserver
 ```
-Team Project 
-
-
-Project developed by - [Sxarlett<3](https://sxarlett.co)
