@@ -21,3 +21,7 @@ mysql
 torch
 mysql-connector
 google-generativeai
+django-cors-headers
+PyJWT
+cryptography
+python-dotenv
